@@ -1,0 +1,26 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "This is a Todo Project based upon CRUD operation attached to Mongodb database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luvkumarsiingh/Todo-List-Backend_Project-.git"
+  },
+  "author": "Luv Kumar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luvkumarsiingh/Todo-List-Backend_Project-/issues"
+  },
+  "homepage": "https://github.com/luvkumarsiingh/Todo-List-Backend_Project-#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.0",
+    "nodemon": "^3.1.0"
+  }
+}
